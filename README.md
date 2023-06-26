@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin A.</h1>
 <h3 align="center">A passionate backend developer from Argentina.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <a href="https://twitter.com/martin__alba" target="blank"><img src="https://img.shields.io/twitter/follow/martin__alba?logo=twitter&style=for-the-badge" alt="martin__alba" /></a> </p>
 
