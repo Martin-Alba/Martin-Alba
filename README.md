@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from Argentina.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<p align="left"> <a href="https://twitter.com/martin__alba" target="_blank"><img src="https://img.shields.io/twitter/follow/martin__alba?logo=twitter&style=for-the-badge" alt="martin__alba" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/martin__alba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="martin__alba" height="30" width="40" /></a>
