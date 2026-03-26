@@ -1,48 +1,121 @@
-<h1 align="center">Hi 👋, I'm Martin Alba</h1>
-<h3 align="center">Backend developer from Argentina.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/martin__alba" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="martin__alba" height="30" width="40" />
-    </a>
-</p>
+# Hi, I'm Martín Alba  
+**Distributed Systems Architect | Head of Engineering | AI & Real-Time Platforms**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-</p>
+I am a software engineer specializing in **distributed systems**, **backend architecture**, and **real-time data processing**. Currently, I lead the engineering of **Cerebro’s AI-driven biometric platform**, capable of processing **high-frequency EEG streams with low latency**.
 
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/Martin64" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Martin64">
-    </a>
-</p>
+My work focuses on **designing scalable infrastructures** where performance, reliability, and security are critical.
+
+---
+
+## Areas of Expertise
+
+- Distributed Systems Architecture  
+- AI Backend Integration  
+- Real-Time Data Pipelines  
+- Secure & Scalable Data Processing  
+- Cross-Platform Application Architecture  
+- Event-Driven Systems  
+- System Scalability & Microservices  
+
+---
+
+## Tech Stack
+
+- **Languages:** Python · Node.js · TypeScript  
+- **Frontend / Cross-Platform:** React & React Native  
+- **Backend:** Microservices, REST/GraphQL APIs, AI integration  
+- **Infrastructure:** Cloud-native architectures, Docker  
+- **Data Processing:** Real-time pipelines, event-driven systems  
+- **Security & Performance:** Secure data handling, low-latency systems  
+
+---
+
+## Notable Experience
+
+### Head of Software Engineering & Digital Architecture — **Cerebro**  
+**Jun 2025 – Present | Spain (Hybrid)**  
+- Lead architect of the distributed infrastructure powering the AI-driven biometric platform.  
+- Designed and maintained scalable systems capable of processing **high-frequency EEG streams with sub-second latency**.  
+- Implemented microservices, event-driven architectures, and real-time data pipelines.  
+- Ensured **security, performance, and scalability** across the entire platform.  
+
+---
+
+## Highlighted Projects
+
+ - **AI Biometric Platform** – Real-time EEG analysis platform
+   integrated with AI.
+
+ - **Distributed Event System** – Microservices and data pipelines for low-latency critical systems.
+
+ - **Cross-Platform Apps** – Mobile and web applications integrated with secure distributed backend.
+
+---
+
+## Contact
+
+- 🔗 LinkedIn: [linkedin.com/in/martín-alba](https://www.linkedin.com/in/mart%C3%ADn-alba/)  
+
+---
+
+
+# Hi, I'm Martín Alba  
+**Distributed Systems Architect | Head of Engineering | AI & Real-Time Platforms**  
+
+I am a software engineer specializing in **distributed systems**, **backend architecture**, and **real-time data processing**. Currently, I lead the engineering of **Cerebro’s AI-driven biometric platform**, capable of processing **high-frequency EEG streams with low latency**.
+
+My work focuses on **designing scalable infrastructures** where performance, reliability, and security are critical.
+
+---
+
+## Areas of Expertise
+
+- Distributed Systems Architecture  
+- AI Backend Integration  
+- Real-Time Data Pipelines  
+- Secure & Scalable Data Processing  
+- Cross-Platform Application Architecture  
+- Event-Driven Systems  
+- System Scalability & Microservices  
+
+---
+
+## Tech Stack
+
+- **Languages:** Python · Node.js · TypeScript  
+- **Frontend / Cross-Platform:** React & React Native  
+- **Backend:** Microservices, REST/GraphQL APIs, AI integration  
+- **Infrastructure:** Cloud-native architectures, Docker  
+- **Data Processing:** Real-time pipelines, event-driven systems  
+- **Security & Performance:** Secure data handling, low-latency systems  
+
+---
+
+## Notable Experience
+
+### Head of Software Engineering & Digital Architecture — **Cerebro**  
+**Jun 2025 – Present | Spain (Hybrid)**  
+- Lead architect of the distributed infrastructure powering the AI-driven biometric platform.  
+- Designed and maintained scalable systems capable of processing **high-frequency EEG streams with sub-second latency**.  
+- Implemented microservices, event-driven architectures, and real-time data pipelines.  
+- Ensured **security, performance, and scalability** across the entire platform.  
+
+---
+
+## Highlighted Projects
+
+ - **AI Biometric Platform** – Real-time EEG analysis platform
+   integrated with AI.
+
+ - **Distributed Event System** – Microservices and data pipelines for low-latency critical systems.
+
+ - **Cross-Platform Apps** – Mobile and web applications integrated with secure distributed backend.
+
+---
+
+## Contact
+
+- 🔗 LinkedIn: [linkedin.com/in/martín-alba](https://www.linkedin.com/in/mart%C3%ADn-alba/)  
+
+
